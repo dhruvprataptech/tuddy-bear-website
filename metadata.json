@@ -1,0 +1,6 @@
+{
+  "name": "Ursus Bear Atelier & Shop",
+  "description": "Artisanal handcrafted heirloom bears, plushies, and accessories with real-time order tracking, custom inventory management, user dashboard, and secure multi-payment checkout gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
